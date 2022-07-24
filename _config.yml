@@ -19,7 +19,7 @@ github_username: "mainethor"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 
-theme: jekyll-theme-slate
+theme: "slate"
 google_analytics: [324398497]
 rss: rss
 
